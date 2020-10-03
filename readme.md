@@ -6,13 +6,13 @@ I wont lie to you and say that everything here is well organized.
 The file 2020-06-02-MidiPedalFinal_with_fixes v9.f3d contains the most recent, and
 most correct, version of the design of this thing.
 
-[![prusa printing](../images/teensyExpression09_resized.jpg)](../images/teensyExpression09.jpg)
+[![prusa printing](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression09_resized.jpg)](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression09.jpg)
 
 
 But I don't believe it contains the actual switches themselves, which were
 probably last exported from 2020-05-19-MidiPedal2 v4.f3d
 
-[![general box assembly](../images/teensyExpression07_resized.jpg)](../images/teensyExpression07.jpg)
+[![general box assembly](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression07_resized.jpg)](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression07.jpg)
 
 
 THIS IS THE INITIAL CHECK IN.
@@ -23,7 +23,7 @@ thingeeverse.
 
 For now I just wanted to get a version up on the web.
 
-[![touchscreen holder](../images/teensyExpression15_resized.jpg)](../images/teensyExpression15.jpg)
+[![touchscreen holder](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression15_resized.jpg)](https://github.com/phorton1/Arduino-teensyExpression/images/teensyExpression15.jpg)
 
 ALL OF THIS IS USER BEWARE, of course!
 
